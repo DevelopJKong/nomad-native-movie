@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nomad_native_movie",
+    "slug": "nomad_native_movie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nomad_native_movie"
+}
